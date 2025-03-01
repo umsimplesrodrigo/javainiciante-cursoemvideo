@@ -1,8 +1,8 @@
 # Curso em Video - Java Iniciante
 
 ## Minha Opnião
-Começei esse curso pois a tecnologia que o professor da diciplina Desenvolvimento de Sistemas utiliza a tecnologia *Java* para explicar o conteúdo. Então precisei correr contra o tempo já que não estava entendendo as explicações do professor.
-Abaixo vou tentar documentar tudo que fui aprendendo durante o curso online, para vocẽ que está lendo isso, espero que goste.
+Começei esse curso pois o professor da diciplina Desenvolvimento de Sistemas utiliza a tecnologia *Java* para explicar o conteúdo. Então precisei correr contra o tempo já que não estava entendendo as explicações do professor.
+Abaixo vou tentar documentar tudo que fui aprendendo durante o curso online, para você que está lendo isso, espero que goste.
 ## O *Java* veio pra ser *Multiplataforma*
 O Java tem como base a linguagem C, que era uma linguagem de propósito geral, mas não era nativamente multiplataforma (não funcionava diretamente em diferentes máquinas sem recompilação).
 ### O processo, de forma simplificada, era o seguinte:
